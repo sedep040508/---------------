@@ -209,3 +209,11 @@ flex-shrink: 0;
     font-weight: 700;
     line-height: 79.98px; /* 133.3% */
 }
+.poloska{
+    width: 140px;
+    height: 4px;
+    flex-shrink: 0;
+    border-radius: 99999px;
+    background: #FF9C08;
+    margin-bottom: 25px;
+}
