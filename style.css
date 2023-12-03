@@ -257,12 +257,21 @@ section {
     background: url(/img/baby.jpg), lightgray 50% / cover no-repeat;
     margin-top: -140px;
 }
+
 .many{
     margin-top: -50px;
     width: 1445px;
     height: 316px;
     flex-shrink: 0;
     background: #FEF9F2;
+}
+.cards{
+    display: flex;
+width: 1220px;
+height: 109px;
+justify-content: center;
+align-items: flex-start;
+gap: 28px;
 }
 .card{
     width: 284px;
