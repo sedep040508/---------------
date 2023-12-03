@@ -207,7 +207,8 @@ flex-shrink: 0;
     font-size: 60px;
     font-style: normal;
     font-weight: 700;
-    line-height: 79.98px; /* 133.3% */
+    line-height: 79.98px;
+    margin-bottom: 16px; /* 133.3% */
 }
 .poloska{
     width: 140px;
@@ -216,4 +217,13 @@ flex-shrink: 0;
     border-radius: 99999px;
     background: #FF9C08;
     margin-bottom: 25px;
+}
+.giv_txt{
+    width: 597px;
+    color: #6E6E6E;
+    font-family: DM Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.992px;
 }
