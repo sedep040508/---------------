@@ -195,3 +195,17 @@ flex-shrink: 0;
     height: 869px;
     flex-shrink: 0;
 }
+.giving{
+    width: 609.703px;
+    height: 397px;
+    flex-shrink: 0;
+}
+.giv_tit{
+    width: 603px;
+    color: #090909;
+    font-family: Roboto;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 79.98px; /* 133.3% */
+}
