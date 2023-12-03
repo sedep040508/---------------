@@ -1,0 +1,184 @@
+html,
+body {
+    height: 100%;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul li:last-child {
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+button,
+label {
+    cursor: pointer;
+}
+
+input,
+button,
+textarea {
+    background: none;
+    border: none;
+    outline: none;
+    display: block;
+    width: 100%;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    display: none;
+}
+
+input::placeholder {
+    color: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+input,
+textarea {
+    display: block;
+    resize: none;
+}
+
+body {
+    color: #414536;
+    font-family: "DM Sans", arial;
+    font-size: 18px;
+    line-height: 28px;
+    /* 155.556% */
+}
+header{
+    width: 1440px;
+    height: 119px;
+    flex-shrink: 0;
+}
+.container{
+    margin: 32px 110px 33px 110px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 498px;
+}
+.head {
+    padding: 20px 0;
+    align-items: center;
+}
+section {
+    padding: 100px 0;
+}
+.color {
+    color: #be963f;
+}
+
+.dib {
+    display: inline-block;
+}
+
+.hover {
+    transition: 0.3s;
+}
+
+.hover:hover {
+    color: #be963f;
+}
+.menu a {
+    padding: 4px 16px;
+    margin-right: 8px;
+    color: #2c2f24;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    border-radius: 34px;
+    transition: 0.3s;
+}
+
+.menu li:last-child a {
+    margin-right: 0;
+}
+
+.menu a:hover {
+    background: #dbdfd0;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.head{
+    display: flex;
+    width: 492px;
+    height: 32.422px;
+    padding: 0.219px 0px 0.203px 0px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+}
+.sedep{
+    width: 32px;
+height: 34px;
+flex-shrink: 0;
+}
+.btn {
+    border-radius: 10px;
+    background: #FF9C08;
+    width: 142px;
+    height: 54px;
+    flex-shrink: 0;
+}
+.btn:hover {
+    background: teal;
+    color: #fff;
+}
+
+.link {
+    transition: 0.3s;
+}
+
+.link:hover {
+    box-shadow: 0px 6px 5px 2px #836a36;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.btnimg{
+    display: flex;
+    height: 54px;
+    padding-left: 32px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 24px;
+}
