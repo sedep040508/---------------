@@ -187,3 +187,11 @@ flex-shrink: 0;
     align-items: center;
     gap: 24px;
 }
+.help_left{
+    width: 56%;
+}
+.help{
+    width: 1440px;
+    height: 869px;
+    flex-shrink: 0;
+}
