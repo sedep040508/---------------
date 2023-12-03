@@ -149,12 +149,15 @@ section {
 height: 34px;
 flex-shrink: 0;
 }
-.btn {
+.btnn{
     border-radius: 10px;
     background: #FF9C08;
     width: 142px;
     height: 54px;
     flex-shrink: 0;
+}
+.btn{
+    
 }
 .btn:hover {
     background: teal;
@@ -167,7 +170,6 @@ flex-shrink: 0;
 .link:hover {
     box-shadow: 0px 6px 5px 2px #836a36;
 }
-
 .flex {
     display: flex;
     flex-wrap: wrap;
