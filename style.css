@@ -144,12 +144,7 @@ section {
     align-items: flex-start;
     gap: 40px;
 }
-.sedep{
-    width: 32px;
-height: 34px;
-flex-shrink: 0;
-}
-.btnn{
+/* .btnn{
     border-radius: 10px;
     background: #FF9C08;
     width: 142px;
@@ -166,7 +161,7 @@ flex-shrink: 0;
 .btn:hover {
     background: teal;
     color: #fff;
-}
+} */
 .link {
     transition: 0.3s;
 }
@@ -226,4 +221,8 @@ flex-shrink: 0;
     font-style: normal;
     font-weight: 400;
     line-height: 37.992px;
+    margin-bottom: 43px;
+}
+.btn{
+    
 }
