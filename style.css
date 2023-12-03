@@ -257,44 +257,10 @@ section {
     background: url(/img/baby.jpg), lightgray 50% / cover no-repeat;
     margin-top: -140px;
 }
-
-.many{
+.containerr{
     margin-top: -50px;
-    width: 1445px;
+    width: 1440px;
     height: 316px;
     flex-shrink: 0;
     background: #FEF9F2;
-}
-.cards{
-    display: flex;
-width: 1220px;
-height: 109px;
-justify-content: center;
-align-items: flex-start;
-gap: 28px;
-}
-.card{
-    width: 284px;
-height: 109px;
-flex-shrink: 0;
-}
-.tit{
-    width: 105px;
-    color: #090909;
-    text-align: center;
-    font-size: 60px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 79.98px;
-    margin: 0 118px 29px 61px;
-}
-.tiit{
-    width: 60px;
-    color: #FF9C08;
-    text-align: center;
-    font-size: 60px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 79.98px;
-    margin: 0 58px 29px 166px;
 }
