@@ -411,15 +411,15 @@ margin-bottom: 200px;
 }
 .big{
     width: 596px;
-    height: 391px;
-    flex-shrink: 0;
+height: 530px;
+flex-shrink: 0;
     margin-bottom: 32px;
     border-radius: 10px;
 }
 .small{
     width: 596px;
-    height: 391px;
-    flex-shrink: 0;
+height: 391px;
+flex-shrink: 0;
     border-radius: 10px;
 }
 .btnss{
@@ -483,4 +483,56 @@ font-style: normal;
 font-weight: 400;
 line-height: 30.006px; 
 margin-left: 28px;
+}
+.icon_img{
+    width: 26px;
+    height: 26px;
+    margin-right: 16px;
+}
+.icon{
+    margin-left: 28px;
+}
+.look{
+    width: 1440px;
+height: 10727px;
+}
+.look_big{
+    display: inline-flex;
+height: 688.375px;
+padding: 0.063px 0px 0.313px 0px;
+justify-content: center;
+align-items: center;
+gap: 116px;
+flex-shrink: 0;
+}
+.look_left{
+    width: 520px;
+height: 509px;
+}
+.p_orange{
+    color: #FF9C08;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 110% */
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.look_tit{
+    width: 449px;
+    color: #090909;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58.002px; /* 138.1% */
+}
+.image{
+    width: 520px;
+height: 180px;
+flex-shrink: 0;
+}
+.iconss{
+    width: 76px;
+height: 76px;
 }
