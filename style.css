@@ -667,9 +667,8 @@ gap: 11px;
 }
 .goal{
     color: #090909;
-font-family: Roboto;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 34.008px; /* 141.7% */
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 34.008px; /* 141.7% */
 }
