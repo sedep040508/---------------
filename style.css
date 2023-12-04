@@ -694,3 +694,12 @@ line-height: 58.002px; /* 138.1% */
     width: 1220px;
 height: 928px;
 }
+.ass_card{
+    width: 388px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    border: 1px solid #F0ECE8;
+    background: #FFF;
+    box-shadow: 0px 2px 12px 0px rgba(43, 43, 43, 0.06);
+}
