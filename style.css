@@ -636,7 +636,6 @@ gap: 28px;
 }
 .over_button{
     width: 1440px;
-height: 1660.766px;
 flex-shrink: 0;
 }
 .img_center{
@@ -679,4 +678,7 @@ flex-shrink: 0;
     font-style: normal;
     font-weight: 400;
     line-height: 30.006px; /* 166.7% */
+}
+.ass_tit{
+    
 }
