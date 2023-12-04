@@ -525,14 +525,58 @@ height: 509px;
     font-size: 42px;
     font-style: normal;
     font-weight: 700;
-    line-height: 58.002px; /* 138.1% */
+    line-height: 58.002px;
+    margin-bottom: 28px;
 }
 .image{
     width: 520px;
 height: 180px;
 flex-shrink: 0;
 }
-.iconss{
+.images{
+    display: flex;
+    height: 76px;
+    padding-right: 29px;
+    align-items: flex-start;
+    gap: 16px;
+    flex-shrink: 0;
+}
+.image{
     width: 76px;
+    height: 76px;
+}
+.som{
+    width: 102px;
+    color: #090909;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44.004px; /* 115.8% */
+}
+.somm{
+    display: flex;
+width: 125px;
 height: 76px;
+padding-bottom: 4.625px;
+flex-direction: column;
+align-items: flex-start;
+gap: 9px;
+}
+.liters{
+    color: #6E6E6E;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.998px; /* 111.1% */
+}
+.look_cards{
+    width: 520px;
+height: 180px;
+flex-shrink: 0;
+}
+.look_right{
+    width: 584px;
+height: 688px;
+border-radius: 10px;
+background: url(), lightgray 50% / cover no-repeat;
 }
