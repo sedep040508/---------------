@@ -367,7 +367,40 @@ line-height: 22px; /* 110% */
     width: 1220px;
 height: 1px;
 background: #DAD1CA;
+margin-bottom: 200px;
 }
 .support{
+    width: 1440px;
+    height: 1669px;
+    flex-shrink: 0;
     background: #FEF9F2;
+}
+.about{
+    color: #FF9C08;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 110% */
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
+.left_tit{
+    width: 517px;
+    color: #090909;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58.002px;
+    margin-bottom: 17px; /* 138.1% */
+}
+.left_txt{
+    width: 576px;
+    color: #6E6E6E;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30.006px;
+    margin-bottom: 56px;
+     /* 166.7% */
 }
