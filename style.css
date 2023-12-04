@@ -680,5 +680,11 @@ flex-shrink: 0;
     line-height: 30.006px; /* 166.7% */
 }
 .ass_tit{
-    
+    width: 571px;
+    color: #090909;
+font-family: Roboto;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 58.002px; /* 138.1% */
 }
