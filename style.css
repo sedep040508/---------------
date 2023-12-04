@@ -84,7 +84,6 @@ header{
 }
 .container{
     margin: 32px 110px 33px 110px;
-    display: inline-flex;
     justify-content: center;
     align-items: center;
     gap: 498px;
@@ -647,6 +646,7 @@ flex-shrink: 0;
     border-radius: 57px;
     background: rgba(0, 0, 0, 0.40);
     margin-top: -500px;
+    margin-bottom: 80px;
 }
 .txt_butt{
     display: inline-flex;
