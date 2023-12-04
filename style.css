@@ -658,12 +658,12 @@ flex-shrink: 0;
 }
 .txt_butt1{
     display: flex;
-width: 596px;
-padding-right: 26px;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;
-gap: 11px;
+    width: 596px;
+    padding-right: 26px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 11px;
 }
 .goal{
     color: #090909;
