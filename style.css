@@ -465,3 +465,20 @@ margin-bottom: 48px;
     margin-left: 28px;
     margin-bottom: 48px;
 }
+.right_text{
+    display: flex;
+width: 584px;
+padding-top: 2.781px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+gap: 20.219px;
+}
+.txt_r{
+    width: 580px;
+    color: #6E6E6E;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+}
