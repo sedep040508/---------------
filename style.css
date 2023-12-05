@@ -711,12 +711,18 @@ margin: 57px 108px 221px 108px ;
 }
 .ass_tit{
     color: #090909;
-    text-align: center;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 34.008px;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 34.008px; /* 141.7% */
 }
-/* .ass_text{
-    margin-top: -200px;
-} */
+.ass_txt{
+    width: 312px;
+    color: #6E6E6E;
+text-align: center;
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+}
