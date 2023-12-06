@@ -948,9 +948,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 19.998px;
 margin-right: 230px;
-align-items: center;
-justify-content: center;
-display: flex;
+margin-top: 13px;
 }
 .white_tit{
     width: 418px;
@@ -958,6 +956,15 @@ display: flex;
 font-size: 24px;
 font-style: normal;
 font-weight: 700;
-line-height: 34.008px; /* 141.7% */
+line-height: 34.008px;
+ margin-bottom: 32px;
+}
+.wh_tit{
+    width: 45px;
+    color: #090909;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 19.998px; /* 111.1% */
 }
 
