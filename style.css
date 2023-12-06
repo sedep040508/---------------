@@ -646,7 +646,10 @@ flex-shrink: 0;
     background: rgba(0, 0, 0, 0.40);
     margin-top: -500px;
     margin-bottom: 80px;
-    border-radius: 60px;
+}
+
+.img_center img {
+    border-radius: 55px;
 }
 .txt_butt{
     display: inline-flex;
