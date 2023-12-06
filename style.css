@@ -868,6 +868,10 @@ line-height: 30.006px; /* 176.506% */
     border-radius: 10px;
     background: #FF9C08;
 }
+.read{
+    width: 1440px;
+height: 10727px;
+}
 .big_read{
     width: 1268px;
 height: 836.25px;
@@ -882,13 +886,14 @@ flex-shrink: 0;
     align-items: center;
     gap: 17px;
 }
-.see_titt{
+.seee_tit {
     color: #090909;
     text-align: center;
     font-size: 42px;
     font-style: normal;
     font-weight: 700;
-    line-height: 58.002px; /* 138.1% */
+    line-height: 58.002px;
+    margin-bottom: 49px; /* 138.1% */
 }
 .read_img{
     display: flex;
@@ -899,10 +904,45 @@ align-items: flex-start;
 gap: 28px;
 flex-shrink: 0;
 }
-.img_read{
+.img_read1{
     width: 596px;
-height: 335px;
+height: 555.25px;
 flex-shrink: 0;
-background: url(), lightgray 50% / cover no-repeat;
-background: url(), lightgray 50% / cover no-repeat;
+position: relative;
+}
+.white1{
+    width: 548px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    border: 1px solid #F0ECE8;
+    background: #FFF;
+    box-shadow: 0px 2px 12px 0px rgba(43, 43, 43, 0.08);
+    position: absolute;
+    right: 0;
+    bottom: 0; 
+    margin-right: 50px;
+}
+.white_top{
+    width: 450.313px;
+height: 48px;
+flex-shrink: 0;
+}
+.white_btn{
+    width: 103px;
+height: 48px;
+flex-shrink: 0;
+border-radius: 6px;
+border: 1px solid #F0ECE8;
+background: #FFF;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.white_txt{
+    color: #6E6E6E;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 19.998px; /* 117.635% */
 }
