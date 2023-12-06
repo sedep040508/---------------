@@ -979,7 +979,9 @@ flex-shrink: 0;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 30.006px; /* 166.7% */
+    line-height: 30.006px; 
+    margin-bottom: 17px;
+    /* 166.7% */
 }
 .tit_white{
     color: #989898;
@@ -987,4 +989,15 @@ font-size: 17px;
 font-style: normal;
 font-weight: 400;
 line-height: 19.998px; /* 117.635% */
+}
+.big_wh{
+    margin: 68px 43px 70px 41px;
+}
+.txt_tit{
+    color: #090909;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 19.998px;
+margin-bottom: 15px; /* 111.1% */
 }
