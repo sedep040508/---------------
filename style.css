@@ -646,6 +646,7 @@ flex-shrink: 0;
     background: rgba(0, 0, 0, 0.40);
     margin-top: -500px;
     margin-bottom: 80px;
+    border-radius: 60px;
 }
 .txt_butt{
     display: inline-flex;
@@ -792,6 +793,7 @@ background: #FEF9F2;
 height: 686.734px;
 flex-shrink: 0;
 margin-top: 100px;
+position: relative;
 }
 .big_see{
     display: flex;
@@ -863,3 +865,26 @@ line-height: 30.006px; /* 176.506% */
     border-radius: 10px;
     background: #FF9C08;
 }
+.big_read{
+    width: 1268px;
+height: 836.25px;
+flex-shrink: 0;
+}
+.read_top{
+    display: flex;
+    width: 1220px;
+    padding: 0px 392px 0px 393px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 17px;
+}
+.see_titt{
+    color: #090909;
+    text-align: center;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58.002px; /* 138.1% */
+}
+
