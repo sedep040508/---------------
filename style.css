@@ -899,3 +899,10 @@ align-items: flex-start;
 gap: 28px;
 flex-shrink: 0;
 }
+.img_read{
+    width: 596px;
+height: 335px;
+flex-shrink: 0;
+background: url(), lightgray 50% / cover no-repeat;
+background: url(), lightgray 50% / cover no-repeat;
+}
