@@ -890,4 +890,12 @@ flex-shrink: 0;
     font-weight: 700;
     line-height: 58.002px; /* 138.1% */
 }
-.
+.read_img{
+    display: flex;
+width: 1220px;
+height: 555.25px;
+justify-content: center;
+align-items: flex-start;
+gap: 28px;
+flex-shrink: 0;
+}
