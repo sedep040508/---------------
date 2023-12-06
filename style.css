@@ -967,4 +967,9 @@ line-height: 34.008px;
     font-weight: 700;
     line-height: 19.998px; /* 111.1% */
 }
+.read_buttom{
+    width: 1220px;
+height: 73px;
+flex-shrink: 0;
+}
 
