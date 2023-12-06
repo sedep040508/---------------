@@ -939,6 +939,7 @@ background: #FFF;
 display: flex;
 justify-content: center;
 align-items: center;
+margin-bottom: 17px;
 }
 .white_txt{
     color: #6E6E6E;
