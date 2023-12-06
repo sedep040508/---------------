@@ -202,15 +202,16 @@ section {
 .giv_tit{
     width: 603px;
     color: #090909;
-    font-family: Roboto;
     font-size: 60px;
     font-style: normal;
     font-weight: 700;
     line-height: 79.98px;
-    margin-bottom: 16px; /* 133.3% */
+    margin-bottom: 16px;
+    letter-spacing: -2px; /* 133.3% */
 }
 .poloska{
     width: 140px;
+    margin-top: 32px;
     height: 4px;
     flex-shrink: 0;
     border-radius: 99999px;
@@ -220,7 +221,6 @@ section {
 .giv_txt{
     width: 597px;
     color: #6E6E6E;
-    font-family: DM Sans;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
