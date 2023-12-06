@@ -86,18 +86,25 @@ header{
     margin: 32px 110px 33px 110px;
     justify-content: center;
     align-items: center;
-    gap: 498px;
 }
 .head {
-    padding: 20px 0;
-    align-items: center;
-}
-.menu{
-    display: inline-flex;
+    display: flex;
+width: 492px;
+height: 32.422px;
+padding: 0.219px 0px 0.203px 0px;
 justify-content: center;
-align-items: center;
-gap: 498px;
+align-items: flex-start;
+gap: 40px;
 }
+/* .knopka{
+    display: flex;
+height: 54px;
+padding-left: 32px;
+justify-content: flex-end;
+align-items: center;
+gap: 24px;
+} */
+
 section {
     padding: 100px 0;
 }
@@ -149,9 +156,8 @@ section {
     align-items: flex-start;
     gap: 40px;
 }
-.menu_left{
+.head_left{
     display: flex;
-    width: 492px;
     height: 32.422px;
     padding: 0.219px 0px 0.203px 0px;
     justify-content: center;
