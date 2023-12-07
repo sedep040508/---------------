@@ -705,7 +705,7 @@ line-height: 58.002px; /* 138.1% */
 }
 .ass_cards{
     width: 1220px;
-    height: 1328px;
+    height: 900px;
 }
 .ass_card{
     width: 388px;
@@ -715,6 +715,7 @@ line-height: 58.002px; /* 138.1% */
     border: 1px solid #F0ECE8;
     background: #FFF;
     box-shadow: 0px 2px 12px 0px rgba(43, 43, 43, 0.06);
+    margin-bottom: 15px;
 }
 .ass_img{
     width: 172px;
@@ -758,9 +759,7 @@ margin: 57px 108px 221px 108px ;
 }
 .joun{
     width: 1440px;
-    height: 436px;
     flex-shrink: 0;
-    margin-top: -350px;
 }
 .yellow{
     width: 1220px;
@@ -880,7 +879,7 @@ line-height: 30.006px; /* 176.506% */
 }
 .read{
     width: 1440px;
-height: 1227px;
+height: 1200px;
 }
 .big_read{
     width: 1268px;
@@ -1011,7 +1010,7 @@ font-weight: 700;
 line-height: 19.998px;
 margin-bottom: 15px; /* 111.1% */
 }
-footer{
+.footer{
     width: 1440px;
 height: 751px;
 flex-shrink: 0;
@@ -1019,6 +1018,35 @@ background: #FEF9F2;
 }
 .footer_top{
     width: 1220px;
+height: 364px;
+flex-shrink: 0;
+}
+.footer_buttom{
+    width: 1220px;
+height: 101px;
+flex-shrink: 0;
+}
+.img_foot{
+    width: 239px;
+height: 38px;
+flex-shrink: 0;
+margin-bottom: 27px;
+}
+.foot_txt{
+    width: 336px;
+    color: #3F3F3F;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+}
+.footer_nav{
+    width: 149px;
+height: 364px;
+flex-shrink: 0;
+}
+.footer_nav1{
+    width: 204px;
 height: 364px;
 flex-shrink: 0;
 }
