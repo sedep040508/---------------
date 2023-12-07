@@ -1050,3 +1050,10 @@ flex-shrink: 0;
 height: 364px;
 flex-shrink: 0;
 }
+.footer_right{
+    width: 388px;
+height: 364px;
+flex-shrink: 0;
+border-radius: 14px;
+background: #FF9C08;
+}
