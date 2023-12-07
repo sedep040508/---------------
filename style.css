@@ -1067,6 +1067,8 @@ background: #FF9C08;
     flex-shrink: 0;
     border-radius: 10px;
     background: #090909;
+    margin-left: 48px;
+    margin-bottom: 16px;
 }
 .footer_tit{
     width: 282px;
@@ -1074,5 +1076,22 @@ background: #FF9C08;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
-    line-height: 34.008px; /* 141.7% */
+    line-height: 34.008px;
+    margin-top: 64px;
+    margin-left: 48px;
+    margin-bottom: 17px;
 }
+.foot_btnn{
+    width: 292px;
+height: 73px;
+flex-shrink: 0;
+border-radius: 10px;
+border: 1px solid #F0ECE8;
+background: #FFF;
+box-shadow: 0px 4px 10px 0px rgba(43, 43, 43, 0.04);
+display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 48px;
+}
+.vector{position: absolute;}
