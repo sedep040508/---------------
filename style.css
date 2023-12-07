@@ -1057,3 +1057,10 @@ flex-shrink: 0;
 border-radius: 14px;
 background: #FF9C08;
 }
+.foot_btn{
+    width: 292px;
+height: 71px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #090909;
+}
