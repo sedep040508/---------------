@@ -705,7 +705,7 @@ line-height: 58.002px; /* 138.1% */
 }
 .ass_cards{
     width: 1220px;
-    height: 928px;
+    height: 1328px;
 }
 .ass_card{
     width: 388px;
@@ -760,6 +760,7 @@ margin: 57px 108px 221px 108px ;
     width: 1440px;
     height: 436px;
     flex-shrink: 0;
+    margin-top: -350px;
 }
 .yellow{
     width: 1220px;
@@ -879,7 +880,7 @@ line-height: 30.006px; /* 176.506% */
 }
 .read{
     width: 1440px;
-height: 1727px;
+height: 1227px;
 }
 .big_read{
     width: 1268px;
@@ -1009,4 +1010,15 @@ font-style: normal;
 font-weight: 700;
 line-height: 19.998px;
 margin-bottom: 15px; /* 111.1% */
+}
+footer{
+    width: 1440px;
+height: 751px;
+flex-shrink: 0;
+background: #FEF9F2;
+}
+.footer_top{
+    width: 1220px;
+height: 364px;
+flex-shrink: 0;
 }
