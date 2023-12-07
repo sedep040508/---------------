@@ -1058,9 +1058,21 @@ border-radius: 14px;
 background: #FF9C08;
 }
 .foot_btn{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 292px;
-height: 71px;
-flex-shrink: 0;
-border-radius: 10px;
-background: #090909;
+    height: 71px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #090909;
+}
+.footer_tit{
+    width: 282px;
+    color: #090909;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 34.008px; /* 141.7% */
 }
