@@ -152,6 +152,9 @@ flex-shrink: 0;
 height: 22px;
 flex-shrink: 0;
 background: #FF9C08;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .head_right{
     display: flex;
@@ -160,6 +163,7 @@ padding-left: 32px;
 justify-content: flex-end;
 align-items: center;
 gap: 24px;
+
 }
 .flex {
     display: flex;
