@@ -1157,7 +1157,7 @@ gap: 22px;
 margin-top: 50px;
 padding-top: 145px;
 }
-.poloska{
+.poloskka{
     width: 1220px;
 height: 1px;
 flex-shrink: 0;
@@ -1167,5 +1167,48 @@ margin-top: 300px;
 .footer_buttom{
     width: 1220px;
 height: 101px;
+flex-shrink: 0;
+}
+.but_left{
+    width: 860px;
+height: 30px;
+flex-shrink: 0;
+}
+.but_txt{
+    color: #6E6E6E;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+}
+.butt{
+    color: #090909;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+text-decoration-line: underline;
+}
+.butto{
+    color: #6E6E6E;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+}
+.button{
+    color: #090909;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.006px; /* 166.7% */
+text-decoration-line: underline;
+}
+.but_left{
+    display: flex;
+}
+.but_right{
+    width: 344px;
+height: 36px;
 flex-shrink: 0;
 }
