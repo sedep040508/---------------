@@ -1133,6 +1133,7 @@ font-style: normal;
 font-weight: 700;
 line-height: 22px;
 margin-bottom: 40px;
+height: 30px;
 }
 .footer_list{
     display: inline-flex;
@@ -1141,4 +1142,5 @@ flex-direction: column;
 justify-content: center;
 align-items: flex-start;
 gap: 22px;
+margin-top: 50px;
 }
