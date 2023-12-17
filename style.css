@@ -77,10 +77,10 @@ body {
     line-height: 28px;
     /* 155.556% */
 }
-header{
-    /* width: 1440px;
+.head_big{
+    width: 1440px;
     height: 119px;
-    flex-shrink: 0; */
+    flex-shrink: 0;
 }
 .container{
     margin: 32px 110px 33px 110px;
