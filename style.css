@@ -83,9 +83,8 @@ body {
     flex-shrink: 0;
 }
 .container{
-    margin: 32px 110px 33px 110px;
-    justify-content: center;
-    align-items: center;
+    margin: 0 auto;
+    max-width: 1268px;
 }
 .head {
 display: flex;
@@ -1331,7 +1330,7 @@ background: #090909;
 
   b{
     display: block;
-    width: 250px;
+    width: 50px;
     height: 50px;
     line-height: 50px;
     font-weight: bold;
@@ -1355,7 +1354,7 @@ background: #090909;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 180px;
+    width: 80px;
     height: 71px;
     flex-shrink: 0;
     border-radius: 10px;
