@@ -1348,10 +1348,6 @@ background: #090909;
   .iconn svg{
     width: 30px;
     position: absolute;
-    top: calc(50% - 15px);
-    left: calc(50% - 15px);
-    transform: rotate(-45deg);
-    fill: #2ecc71;
     transition: all .35s;
 }
   
