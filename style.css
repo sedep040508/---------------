@@ -1361,4 +1361,16 @@ background: #090909;
     border-radius: 10px;
     background: #FF9C08;
   }
+  .play{
+    /* justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 180px;
+height: 180px;
+flex-shrink: 0;
+background: #FFF;
+border-radius: 50%;
+position: relative;
+position: absolute; */
+  }
   
